@@ -1,3 +1,5 @@
+![itgam](https://raw.githubusercontent.com/JazmariGonzalez/VueJs-ShoppingCart/main/md/img/itgam.jpg)
+
 # Shopping Cart 🛒 project
 
 proyecto didactico para el curso de 
